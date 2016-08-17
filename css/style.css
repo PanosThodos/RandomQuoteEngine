@@ -1,0 +1,32 @@
+* {
+  margin:0;
+  padding:0;
+  text-align:center;
+}
+body {
+  background-color: #fff;
+  border:1px solid silver;
+}
+button {
+margin-left:7%;
+}
+
+.abcd {
+   text-align:center;
+}
+
+.jumbotron {
+  background-color:#c8d1d8;
+}
+
+i {
+  margin-top:6%;
+}
+
+.twitter-share-button {
+  font-size:18px;
+}
+
+.machine {
+  background-color:white;
+}
